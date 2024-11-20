@@ -44,13 +44,13 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/mahari9/Personal-portfolio.git
+   git clone https://github.com/mahari9/Personal-Portfolio.git
    ```
 
 1. Navigate to the project directory:
 
    ```sh
-   cd Personal-portfolio
+   cd Personal-Portfolio
    ```
 
 1. Install the dependencies:
@@ -147,5 +147,3 @@ tsconfig.json
 ## License
 
 This project is licensed under the MIT License.
-
-
