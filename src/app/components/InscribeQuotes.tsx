@@ -21,7 +21,7 @@ const InscribeQuotes = () => {
     <main className="flex flex-col gap-5 w-[100%] text-white">
       <div className="flex flex-col gap-2">
         <h1 className="text-2xl md:text-[28px] font-bold" data-aos="fade-down">
-          Words On Marble
+          Inscribe Quotes
         </h1>
         <div className="bg-green-400 h-[5px] w-[60px] rounded-full" data-aos="fade-down"></div>
       </div>
