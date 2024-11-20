@@ -27,6 +27,8 @@ This is the personal portfolio website of Mahari Tsegay, developed using React.j
 - TailwindCSS
 - AOS (Animate On Scroll)
 - PostCSS
+- Typewriter Effect
+- React GTM Module
 
 ## Getting Started
 
@@ -86,21 +88,6 @@ npm start
 ## Project Structure
 
 ```plaintext
-.gitignore
-
-
-next.config.js
-
-
-
-
-package.json
-
-
-
-
-postcss.config.js
-
 
 public/
     favicon_io/
@@ -110,16 +97,10 @@ public/
     img/
         resume/
 
-
-README.md
-
-
 src/
     app/
         about/
-            
-
-page.tsx
+            page.tsx
 
 
         components/
@@ -132,44 +113,27 @@ page.tsx
             LandingPage.tsx
             MyContact.tsx
             MyJourney.tsx
-            
-
-MyProjects.tsx
-
-
+            MyProjects.tsx
             NavBar.tsx
-            
-
-ProjectsData.ts
-
-
+            ProjectsData.ts
         contact/
-        
-
-globals.css
-
-
+            page.tsx
         journey/
-        
-
-layout.tsx
-
-
-        
-
-page.tsx
-
-
+            page.tsx
         projects/
+            page.tsx
 
+        globals.css
+        layout.tsx
+        page.tsx
 
+.gitignore
+next.config.js
+package.json
+postcss.config.js
+README.md
 tailwind.config.ts
-
-
-
-
 tsconfig.json
-
 
 ```
 
