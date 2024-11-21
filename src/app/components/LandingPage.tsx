@@ -3,10 +3,8 @@ import Home1 from "./home1";
 import Type from "./type";
 import Image from "next/image";
 import React, { useEffect } from "react";
-import TagManager from "react-gtm-module";
 
 const LandngPage = () => {
-  useEffect(() => { const tagManagerArgs = { gtmId: "GTM-WDWFBW32", }; TagManager.initialize(tagManagerArgs); }, [])
 
   return (
     <main className="relative ml-0 w-full bg-transparent p-5 lg:pr-[5%] lg:pl-[10%] flex flex-col gap-10 mt-[10%] pb-10 mb-[2rem] overflow-hidden">
