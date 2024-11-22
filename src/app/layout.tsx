@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Mahari Tsegay Portfolio',
     description: 'Personal portfolio website developed using React.js and Next.js',
-    url: 'https://mahari-slai.onrender.com',
+    url: 'https://mahari.onrender.com',
     images: ['https://github.com/mahari9/Personal_Portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b'],
     type: 'website',
   },
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     },
   },
 
-  manifest: 'https://mahari-slai.render.com/manifest.json',
+  manifest: 'https://mahari.onrender.com/manifest.json',
 
   twitter: {
     card: 'summary_large_image',
