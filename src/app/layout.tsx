@@ -8,13 +8,13 @@ import Footer from "./components/footer";
 const raleway = Raleway({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://mahari.onrender.com'),
   title: 'Mahari Tsegay Portfolio',
   description: 'Personal portfolio website developed using React.js and Next.js',
   openGraph: {
     title: 'Mahari Tsegay Portfolio',
     description: 'Personal portfolio website developed using React.js and Next.js',
-    url: 'https://mahari.onrender.com',
-    images: ['https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.png'],
+    images: '/img/screenshot.png',
     type: 'website',
   },
   icons: {
@@ -33,14 +33,14 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Mahari Tsegay | Portfolio',
     description: 'Personal portfolio website developed using React.js and Next.js',
-    images: ['https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/socialtag.png'],
+    images: '/img/socialtag.png',
   },
 
   other: {
     'google-site-verification': '36GlhhrMw3dM5mXgzxcctpx3O7Wfho1vM_DgWRdU16U',
     'itemprop:name': 'Mahari Tsegay | Portfolio',
     'itemprop:description': 'Personal portfolio website developed using React.js and Next.js',
-    'itemprop:image': 'https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.png',
+    'itemprop:image': '/img/screenshot.png',
     robots: 'index, follow',
   },
 };
