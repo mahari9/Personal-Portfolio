@@ -28,10 +28,10 @@ function Home1() {
             </p>
             <div className="flex items-center justify-center gap-4 pt-4">
                 <a href="https://github.com/mahari9" target="_blank"><FaGithub className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
-                <a href="https://x.com/TsegayMahari/" target="_blank"><FaXTwitter className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
+                <a href="https://x.com/TsegayMahari?t=HieQk6k5MC4p-0ihCPhBjw&s=09" target="_blank"><FaXTwitter className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
                 <a href="https://www.linkedin.com/in/mahari-tsegay-22376524a/" target="_blank"><FaLinkedinIn className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
                 <a href="https://wa.me/251944779932" target="_blank"><FaWhatsapp className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
-                <a href="t.me/@TTMM79" target="_blank"><FaTelegram className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
+                <a href="https://t.me/TTMM79" target="_blank"><FaTelegram className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
                 <a href="https://www.instagram.com/maharitsegay9/" target="_blank"><FaInstagram className="text-4xl md:text-3xl p-2 rounded-xl bg-light-blue-3 hover:bg-jet transition-all delay-200 border border-jet border-solid  text-litewhite hover:text-green-400 font-medium" /></a>
             </div>
         </div>

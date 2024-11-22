@@ -43,8 +43,8 @@ const Socials = () => {
                         <FaTelegram className="p-2 rounded-xl text-green-400 bg-light-blue-3 border border-jet border-solid text-4xl" />
                         <p className="text-gray text-[15px] md:text-[16px] font-bold">Telegram</p>
                     </div>
-                    <a href="https://t.me/@TTMM79" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
-                        <p className="text-litewhite text-[12px] md:text-[13px] font-medium">@TTMM79</p>
+                    <a href="https://t.me/TTMM79" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
+                        <p className="text-litewhite text-[12px] md:text-[13px] font-medium">Mahari</p>
                         <h4 className="text-[14px] md:text-[16px] text-litewhite group-hover:text-green-400 transition-all delay-200 font-medium">Call/Send Message</h4>
                     </a>
                 </div>
