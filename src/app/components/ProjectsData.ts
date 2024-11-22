@@ -30,7 +30,7 @@ interface ProjectDataTypes {
     
     {
         id: 3,
-        projectImgURL: "/img/personalportfolio.png",
+        projectImgURL: "/img/portfolio.png",
         projectTitle: "Personal Portfolio",
         ProjectAbout: "This is the website you are currently on. My portfolio website that showcases my about, what I do, stack, journey, projects and contact information.",
         stack: "NextJS | Typescript | TailwindCSS | AOS",
