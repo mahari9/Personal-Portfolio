@@ -12,7 +12,7 @@ This is the personal portfolio website of Mahari Tsegay, developed using React.j
 - [Scripts](#scripts)
 - [License](#license)
 
-![image](https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.jpg)
+![image](https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.png)
 
 ## Go Live
 
