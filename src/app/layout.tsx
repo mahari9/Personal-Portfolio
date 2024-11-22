@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: 'Mahari Tsegay Portfolio',
     description: 'Personal portfolio website developed using React.js and Next.js',
     url: 'https://mahari.onrender.com',
-    images: ['https://github.com/mahari9/Personal_Portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b'],
+    images: ['https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.png'],
     type: 'website',
   },
   icons: {
@@ -33,14 +33,14 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Mahari Tsegay | Portfolio',
     description: 'Personal portfolio website developed using React.js and Next.js',
-    images: ['https://nextjs.org/og.png'],
+    images: ['https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/socialtag.png'],
   },
 
   other: {
     'google-site-verification': 'verification_token',
     'itemprop:name': 'Mahari Tsegay | Portfolio',
     'itemprop:description': 'Personal portfolio website developed using React.js and Next.js',
-    'itemprop:image': 'https://github.com/mahari9/my_portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b',
+    'itemprop:image': 'https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.png',
     robots: 'index, follow',
   },
 };
