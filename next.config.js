@@ -5,6 +5,6 @@ module.exports = nextConfig
 
 module.exports = {
     publicRuntimeConfig: {
-      metadataBase: 'https://your-home-slai.onrender.com',
+      metadataBase: 'https://mahari.onrender.com',
     },
   };
