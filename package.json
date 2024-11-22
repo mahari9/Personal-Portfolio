@@ -16,6 +16,7 @@
     "react-gtm-module": "^2.0.11",
     "react-icons": "^4.11.0",
     "react-toastify": "^10.0.6",
+    "sharp": "^0.33.5",
     "typewriter-effect": "^2.21.0"
   },
   "devDependencies": {
