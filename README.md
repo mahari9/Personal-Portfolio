@@ -4,12 +4,19 @@ This is the personal portfolio website of Mahari Tsegay, developed using React.j
 
 ## Table of Contents
 
+- [Go Live](#go-live)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
 - [License](#license)
+
+![image](https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.jpg)
+
+## Go Live
+
+- [Live Link](https://mahari.onrender.com/ "Live Link")
 
 ## Features
 
