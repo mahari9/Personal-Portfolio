@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
 
   other: {
-    'google-site-verification': 'verification_token',
+    'google-site-verification': '36GlhhrMw3dM5mXgzxcctpx3O7Wfho1vM_DgWRdU16U',
     'itemprop:name': 'Mahari Tsegay | Portfolio',
     'itemprop:description': 'Personal portfolio website developed using React.js and Next.js',
     'itemprop:image': 'https://github.com/mahari9/Personal-Portfolio/blob/master/public/img/screenshot.png',
